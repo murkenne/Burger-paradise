@@ -27,7 +27,7 @@ const HeadlineCards = () => {
             </div>
             <img
             className="max-h-[160px] md:max-[200px] w-full object-cover rounded-xl"
-             src="https://images.pexels.com/photos/8969237/pexels-photo-8969237.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="/"/>
+             src="https://images.pexels.com/photos/291528/pexels-photo-291528.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="/"/>
         </div>
                 {/*Cards*/}
         <div className="rounded-xl relative">
@@ -39,7 +39,7 @@ const HeadlineCards = () => {
             </div>
             <img
             className="max-h-[160px] md:max-[200px] w-full object-cover rounded-xl"
-             src="https://images.pexels.com/photos/8969237/pexels-photo-8969237.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="/"/>
+             src="https://images.pexels.com/photos/1639557/pexels-photo-1639557.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="/"/>
         </div>
       </div>
     )
